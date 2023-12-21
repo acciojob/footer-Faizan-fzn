@@ -1,1 +1,50 @@
 /* your code here */
+.content{
+	background-color: black;
+	height: 300px;
+	display: flex;
+	box-sizing: content-box;
+}
+.logo_name{
+	color: white;
+	font-size: 25px;
+	font-family: arial;	
+}
+.top{
+	margin-left: 20px;
+	margin-top: 20px;
+	height: 40px;
+}
+.link-boxes{
+	display: flex;
+	color: white;
+}
+.link{
+	display: flex;
+}
+.link a{
+	display: flex;
+	color: white;
+	align-items: center;
+	justify-content: space-around;
+    text-align: left;
+}
+a{
+	float:left;
+}
+.details{
+	height: 200px;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	margin-right: 90px;
+	margin-left: -110px;
+	padding-left: 0px; 
+	
+}
+.section{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 12px;
+	width: 150px;
+	text-align: left;
+}
