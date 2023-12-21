@@ -2,6 +2,7 @@
 .content{
 	background-color: black;
 	height: 300px;
+	width:650px;
 	display: flex;
 	box-sizing: content-box;
 }
@@ -36,7 +37,7 @@
 	height: 200px;
 	margin-top: 100px;
 	margin-bottom: 0px;
-	margin-right: 80px;
+	margin-right: 110px;
 	margin-left: -100px;
 	padding-left: 0px; 
 	
@@ -47,23 +48,39 @@
 	font-size: 12px;
 	width: 150px;
 	text-align: left;
+	font-weight: 100;
 }
 .heading{
 	margin-left: -100px;
 	margin-bottom: 8px;
+	font-weight: 400;
 }
 .heading3{
 	margin-left: -100px;
 	margin-bottom: 8px;
 	margin-right: -50px;
+	font-weight: 400;
 }
 .heading1{
 	margin-left: -100px;
 	margin-bottom: 8px;
 	margin-right: 10px;
+	font-weight: 400;
+}
+.bottom-details{
+	width: 100%;
+	margin-top: 260px;
+	margin-left: -761px;
 }
 .bottom{
-	height: 30px;
-	background-color: black;
-	color: white;
+	display: flex;
+	box-sizing: content-box;
+	height: 40px;
+	background-color: #36454F;
+	color: lightgray;
+	padding-left: 25px;
+	padding-right: 25px;
+	justify-content: space-between;
+	font-size: 12px;
+	font-weight: 100;
 }
