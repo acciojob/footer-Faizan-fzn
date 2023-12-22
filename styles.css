@@ -6,9 +6,12 @@
 	display: flex;
 	box-sizing: content-box;
 }
+.media-icons{
+	display: flex;
+}
 .logo_name{
 	color: white;
-	font-size: 25px;
+	font-size: 30px;
 	font-family: arial;	
 }
 .top{
@@ -70,7 +73,7 @@
 .bottom-details{
 	width: 100%;
 	margin-top: 260px;
-	margin-left: -761px;
+	margin-left: -782px;
 }
 .bottom{
 	display: flex;
